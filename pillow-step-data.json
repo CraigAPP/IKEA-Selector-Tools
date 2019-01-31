@@ -1,0 +1,53 @@
+{
+	"productType": "pillow",
+	"classes": "pillowFinder block qpm-block uk",
+	"steps": [
+		{
+			"type": "home"
+		},
+		{
+			"type": "filling",
+			"layout": "three-up",
+			"heading": "What type of filling do you prefer?",
+			"text": "Choose from pillows filled with down and feathers, memory foam and polyester in a variety of thicknesses to support your sleeping style.",
+			"options": [
+				{
+					"type": "memory-foam",
+					"heading": "Memory Foam",
+					"text": "A pillow with memory foam filling moulds to your head and neck. This helps your muscles relax and, consequently, you will move less and sleep better."
+				},
+				{
+					"type": "feather",
+					"heading": "Down and Feather",
+					"text": "Down and feather pillows mould snugly round the head and shoulders. The more feathers there are in the pillow, the firmer it tends to be and the proportion of the down adds softness."
+				},
+				{
+					"type": "synthetic",
+					"heading": "Synthetic",
+					"text": "Man-made pillows are very easy to care for and can be washed often. They also dry relatively quickly."
+				}
+			]
+		},
+		{
+			"type": "firmness",
+			"layout": "two-up",
+			"heading": "How firm do you like your pillow",
+			"text": "Soft, firm or somewhere in between, find the perfect pillow to match your sleeping style.",
+			"options": [
+				{
+					"type": "softer",
+					"heading": "Softer",
+					"text": "Recommended for sleeping on your tummy or side."
+				},
+				{
+					"type": "firmer",
+					"heading": "Firmer",
+					"text": "Recommended for sleeping on your side or back."
+				}
+			]
+		},
+    {
+			"type": "results"
+		}
+	]
+}

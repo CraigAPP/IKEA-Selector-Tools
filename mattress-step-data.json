@@ -1,0 +1,116 @@
+{
+	"productType": "mattress",
+	"classes": "mattressFinder qpm-block uk",
+	"steps": [
+		{
+			"type": "home"
+		},
+		{
+			"type": "bedframe",
+			"layout": "two-up",
+			"heading": "What is the size of your bedframe?",
+			"text": "Your bed is the most-used piece of furniture in your home and on average, you sleep for one third of your life.",
+			"options": [
+				{
+					"type": "standard",
+					"heading": "Standard",
+					"text": "Your bed is from a UK/Irish retailer or you purchased your bed from IKEA after October 2013 when we started selling UK size beds."
+				},
+				{
+					"type": "eu",
+					"heading": "EU",
+					"text": "Your bed is from an EU retailer or you purchased your bed from IKEA before October 2013 and it has a slightly longer frame."
+				}
+			]
+		},
+		{
+			"type": "size",
+			"layout": "four-up",
+			"heading": "What mattress size are you looking for?",
+			"options": [
+				{
+					"type": "single",
+					"heading": "Single",
+					"text": "A comfy mattress for one"
+				},
+				{
+					"type": "double",
+					"heading": "Double",
+					"text": "A mattress fit for two"
+				},
+				{
+					"type": "kingsize",
+					"heading": "King",
+					"text": "A big and spacious mattress for two"
+				},
+				{
+					"type": "super-kingsize",
+					"heading": "Super King",
+					"text": "The biggest mattress there is"
+				},
+				{
+					"type": "90x200",
+					"classes": "single",
+					"heading": "90x200",
+					"text": "A comfy mattress for one"
+				},
+				{
+					"type": "140x200",
+					"classes": "double",
+					"heading": "140x200",
+					"text": "A mattress fit for two"
+				},
+				{
+					"type": "160x200",
+					"classes": "kingsize",
+					"heading": "160x200",
+					"text": "A big and spacious mattress for two"
+				}
+			]
+		},
+		{
+			"type": "support",
+			"layout": "three-up",
+			"heading": "How much support do you prefer?",
+			"text": "Your mattress should provide the right support to support your spine in its neutral position when lying in bed. But it’s also a simple matter of preference.",
+			"options": [
+				{
+					"type": "foam",
+					"heading": "Foam",
+					"text": "A foam mattress supports each part of your body by closely following your movements in bed."
+				},
+				{
+					"type": "memory-foam",
+					"heading": "Memory Foam",
+					"text": "A layer of memory foam moulds to the contours of your body, relieves pressure and helps you relax."
+				},
+				{
+					"type": "sprung",
+					"heading": "Sprung",
+					"text": "Choose a sprung mattress for an even distribution of weight and elimination of unwanted pressure on any body parts. Plus, ventilated spring construction provides good air circulation so you can enjoy a cool and dry microclimate."
+				}
+			]
+		},
+		{
+			"type": "firmness",
+			"layout": "two-up",
+			"heading": "Firmness",
+			"text": "The feeling of firmness comes from a spring or foam core, combined with the top layer of a mattress. Whether you prefer a firm foam or softer spring mattress is down to individual preference.",
+			"options": [
+				{
+					"type": "medium-firm",
+					"heading": "Medium Firm",
+					"text": "Suitable for all sleeping styles, but especially side-sleepers. Suited to smaller people as they need a little less mattress support for their body weight."
+				},
+				{
+					"type": "firm",
+					"heading": "Firm",
+					"text": "Perfect if you mainly sleep on your stomach or your back. Better for larger people as a firm mattress provides greater body weight support."
+				}
+			]
+		},
+		{
+			"type": "results"
+		}
+	]
+}

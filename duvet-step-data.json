@@ -1,0 +1,76 @@
+{
+	"productType": "duvet",
+	"classes": "duvetFinder block qpm-block uk",
+	"steps": [
+		{
+			"type": "home"
+		},
+		{
+			"type": "warmth",
+			"layout": "three-up",
+			"heading": "How warm do you like your duvet?",
+			"text": "Our range is available in a number of tog ratings, from 4 - 12, to perfectly suit your style of sleeping.",
+			"options": [
+				{
+					"type": "cooler",
+					"heading": "Cooler",
+					"text": "Summer 4 tog"
+				},
+				{
+					"type": "warmer",
+					"heading": "Warmer",
+					"text": "Spring & Autumn 7.5 tog"
+				},
+				{
+					"type": "extra-warm",
+					"heading": "Extra Warm",
+					"text": "Autumn & Winter 12 tog"
+				}
+			]
+		},
+		{
+			"type": "materials",
+			"layout": "two-up",
+			"heading": "Would you like a natural or non-allergenic duvet?",
+			"text": "Explore our range of duvets and quilts, designed with your perfect night's sleep in mind.",
+			"options": [
+				{
+					"type": "feather",
+					"heading": "Feather & Down",
+					"text": "Duck down and feathers are used in the filling of natural quilts. These fillings are natural insulators. They breathe and are good at absorbing moisture."
+				},
+				{
+					"type": "synthetic",
+					"heading": "Synthetic",
+					"text": "Synthetic quilts are very easy to care for and can be washed often. They also dry relatively quickly."
+				}
+			]
+		},
+		{
+			"type": "size",
+			"layout": "three-up",
+			"heading": "Choose your size",
+			"text": "What size would you like",
+			"options": [
+				{
+					"type": "single",
+					"heading": "Single",
+					"text": "150cm x 200cm"
+				},
+				{
+					"type": "double",
+					"heading": "Double",
+					"text": "Standard UK double, 200cm x 200cm"
+				},
+				{
+					"type": "kingsize",
+					"heading": "King",
+					"text": "240cm x 220cm"
+				}
+			]
+		},
+    {
+			"type": "results"
+		}
+	]
+}
