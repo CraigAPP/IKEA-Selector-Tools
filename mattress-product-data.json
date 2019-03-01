@@ -872,7 +872,7 @@ mfJsonpCallback([{
 	"firmness": "medium-firm",
 	"firmnessVerbose": "Medium Firm",
 	"bedframe": "eu",
-	"support": "memory-foam",
+	"support": "foam",
 	"prerolled": true,
 	"linkGB": "http://www.ikea.com/gb/en/products/mattresses/mattresses-toppers/morgedal-memory-foam-mattress-medium-firm-dark-grey-art-60283794/",
 	"trackingGB": "ms|gb|winatsleeping|201701061327262593_104",
@@ -971,8 +971,8 @@ mfJsonpCallback([{
 	"firmness": "firm",
 	"firmnessVerbose": "Firm",
 	"bedframe": "standard",
-	"support": "foam",
-	"supportVerbose": "Foam",
+	"support": "memory-foam",
+	"supportVerbose": "memory-foam",
 	"prerolled": true,
 	"linkGB": "http://www.ikea.com/gb/en/products/mattresses/mattresses-toppers/morgedal-foam-mattress-firm-dark-grey-art-60283789/",
 	"trackingGB": "ms|gb|winatsleeping|201701061327262602_112",
@@ -1138,7 +1138,7 @@ mfJsonpCallback([{
 	"priceGB": 450,
 	"linkIE": "https://www.ikea.com/ie/en/products/mattresses/mattresses-toppers/hidrasund-pocket-sprung-mattress-firm-natural-art-30372715/",
 	"priceIE": 500,
-	"image": "mattress-finder/results/mattress_109.jpg"
+	"image": "mattress-finder/results/mattress_108.jpg"
 }, {
 	"art": 60372714,
 	"family": "HIDRASUND",
@@ -1153,7 +1153,7 @@ mfJsonpCallback([{
 	"priceGB": 450,
 	"linkIE": "https://www.ikea.com/ie/en/products/mattresses/mattresses-toppers/hidrasund-pocket-sprung-mattress-medium-firm-natural-art-60372714/",
 	"priceIE": 500,
-	"image": "mattress-finder/results/mattress_109.jpg"
+	"image": "mattress-finder/results/mattress_108.jpg"
 }, {
 	"art": 90372717,
 	"family": "HIDRASUND",
@@ -1165,10 +1165,10 @@ mfJsonpCallback([{
 	"supportVerbose": "Sprung",
 	"prerolled": false,
 	"linkGB": "https://www.ikea.com/gb/en/products/mattresses/mattresses-toppers/hidrasund-pocket-sprung-mattress-firm-natural-art-90372717/",
-	"priceGB": 839,
+	"priceGB": 800,
 	"linkIE": "https://www.ikea.com/ie/en/products/mattresses/mattresses-toppers/hidrasund-pocket-sprung-mattress-firm-natural-art-90372717/",
 	"priceIE": 900,
-	"image": "mattress-finder/results/mattress_109.jpg"
+	"image": "mattress-finder/results/mattress_108.jpg"
 }, {
 	"art": 10372716,
 	"family": "HIDRASUND",
@@ -1180,10 +1180,10 @@ mfJsonpCallback([{
 	"supportVerbose": "Sprung",
 	"prerolled": false,
 	"linkGB": "https://www.ikea.com/gb/en/products/mattresses/mattresses-toppers/hidrasund-pocket-sprung-mattress-medium-firm-natural-art-10372716/",
-	"priceGB": 839,
+	"priceGB": 800,
 	"linkIE": "https://www.ikea.com/ie/en/products/mattresses/mattresses-toppers/hidrasund-pocket-sprung-mattress-medium-firm-natural-art-10372716/",
 	"priceIE": 900,
-	"image": "mattress-finder/results/mattress_109.jpg"
+	"image": "mattress-finder/results/mattress_108.jpg"
 }, {
 	"art": 278309,
 	"family": "MOSHULT",
