@@ -45,7 +45,7 @@ dfJsonpCallback([{
 	"trackingIE": "",
 	"priceIE": 80,
 	"info": "A warm quilt in soft cotton, filled with a mix of down, feathers and polyester.",
-	"image": "duvet-finder/results/hastkastanj-6.8tog.jpg"
+	"image": "duvet-finder/results/hastkastanj.jpg"
 }, {
 	"art": 30417262,
 	"family": "HÄSTKASTANJ",
@@ -93,7 +93,7 @@ dfJsonpCallback([{
 	"trackingIE": "",
 	"priceIE": 85,
 	"info": "The beauty of natural, fluffy down is that it is incredibly soft and cosy whilst also being light and breathable. Our quilts come in a variety of warmth ratings so you can choose what’s best for you.",
-	"image": "duvet-finder/results/kallkrasse-4tog.jpg"
+	"image": "duvet-finder/results/kallkrasse4tog.jpg"
 }, {
 	"art": 80390509,
 	"family": "KÄLLKRASSE",
@@ -109,7 +109,7 @@ dfJsonpCallback([{
 	"trackingIE": "",
 	"priceIE": 110,
 	"info": "The beauty of natural, fluffy down is that it is incredibly soft and cosy whilst also being light and breathable. Our quilts come in a variety of warmth ratings so you can choose what’s best for you.",
-	"image": "duvet-finder/results/kallkrasse-4tog.jpg"
+	"image": "duvet-finder/results/kallkrasse4tog.jpg"
 }, {
 	"art": 40390511,
 	"family": "KÄLLKRASSE",
@@ -125,7 +125,7 @@ dfJsonpCallback([{
 	"trackingIE": "",
 	"priceIE": 65,
 	"info": "The beauty of natural, fluffy down is that it is incredibly soft and cosy whilst also being light and breathable. Our quilts come in a variety of warmth ratings so you can choose what’s best for you.",
-	"image": "duvet-finder/results/kallkrasse-4tog.jpg"
+	"image": "duvet-finder/results/kallkrasse4tog.jpg"
 }, {
 	"art": 20390512,
 	"family": "KÄLLKRASSE",
@@ -141,7 +141,7 @@ dfJsonpCallback([{
 	"trackingIE": "",
 	"priceIE": 110,
 	"info": "The beauty of natural, fluffy down is that it is incredibly soft and cosy whilst also being light and breathable. Our quilts come in a variety of warmth ratings so you can choose what’s best for you.",
-	"image": "duvet-finder/results/kallkrasse-7.5tog.jpg"
+	"image": "duvet-finder/results/kallkrasse7halftog.jpg"
 }, {
 	"art": 00390513,
 	"family": "KÄLLKRASSE",
@@ -157,7 +157,7 @@ dfJsonpCallback([{
 	"trackingIE": "",
 	"priceIE": 130,
 	"info": "The beauty of natural, fluffy down is that it is incredibly soft and cosy whilst also being light and breathable. Our quilts come in a variety of warmth ratings so you can choose what’s best for you.",
-	"image": "duvet-finder/results/kallkrasse-7.5tog.jpg"
+	"image": "duvet-finder/results/kallkrasse7halftog.jpg"
 }, {
 	"art": 80390514,
 	"family": "KÄLLKRASSE",
@@ -173,7 +173,7 @@ dfJsonpCallback([{
 	"trackingIE": "",
 	"priceIE": 85,
 	"info": "The beauty of natural, fluffy down is that it is incredibly soft and cosy whilst also being light and breathable. Our quilts come in a variety of warmth ratings so you can choose what’s best for you.",
-	"image": "duvet-finder/results/kallkrasse-7.5tog.jpg"
+	"image": "duvet-finder/results/kallkrasse7halftog.jpg"
 }, {
 	"art": 50390643,
 	"family": "KÄLLKRASSE",
@@ -189,7 +189,7 @@ dfJsonpCallback([{
 	"trackingIE": "",
 	"priceIE": 160,
 	"info": "The beauty of natural, fluffy down is that it is incredibly soft and cosy whilst also being light and breathable. Our quilts come in a variety of warmth ratings so you can choose what’s best for you.",
-	"image": "duvet-finder/results/kallkrasse-13.5tog.jpg"
+	"image": "duvet-finder/results/kallkrasse13halftog.jpg"
 }, {
 	"art": 30390644,
 	"family": "KÄLLKRASSE",
@@ -205,7 +205,7 @@ dfJsonpCallback([{
 	"trackingIE": "",
 	"priceIE": 190,
 	"info": "The beauty of natural, fluffy down is that it is incredibly soft and cosy whilst also being light and breathable. Our quilts come in a variety of warmth ratings so you can choose what’s best for you.",
-	"image": "duvet-finder/results/kallkrasse-13.5tog.jpg"
+	"image": "duvet-finder/results/kallkrasse13halftog.jpg"
 }, {
 	"art": 00390645,
 	"family": "KÄLLKRASSE",
@@ -221,7 +221,7 @@ dfJsonpCallback([{
 	"trackingIE": "",
 	"priceIE": 190,
 	"info": "The beauty of natural, fluffy down is that it is incredibly soft and cosy whilst also being light and breathable. Our quilts come in a variety of warmth ratings so you can choose what’s best for you.",
-	"image": "duvet-finder/results/kallkrasse-13.5tog.jpg"
+	"image": "duvet-finder/results/kallkrasse13halftog.jpg"
 }, {
 	"art": 80424222,
 	"family": "SILVERTOPP",
@@ -237,7 +237,7 @@ dfJsonpCallback([{
 	"trackingIE": "",
 	"priceIE": 4.50,
 	"info": "A thinner duvet that keeps you comfy and cool. It can be washed frequently and at high temperatures – and it dries quickly too.",
-	"image": "duvet-finder/results/silvertopp-4tog.jpg"
+	"image": "duvet-finder/results/silvertopp4tog.jpg"
 }, {
 	"art": 10271473,
 	"family": "GLANSVIDE",
